@@ -1,0 +1,24 @@
+{
+  "name": "video_test",
+  "version": "1.0.0",
+  "description": "video_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/video_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/video_test/issues"
+  },
+  "homepage": "https://github.com/txl910514/video_test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "video.js": "^5.11.6"
+  }
+}
