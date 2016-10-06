@@ -84,5 +84,5 @@ video_test
         }
     });
 * 这也适用于使用了data-setup视频元素的属性，只记得选择需要使用适当的JSON符号。
-    <video ... data-setup='{ "controlBar": { "muteToggle": false } }'></video>
+    `<video ... data-setup='{ "controlBar": { "muteToggle": false } }'></video>`
 
